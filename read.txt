@@ -1,0 +1,2 @@
+This is a react and django crash course.
+This is from the github as a confrimation.
